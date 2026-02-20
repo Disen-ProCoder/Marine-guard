@@ -1,4 +1,4 @@
-package com.example.marineguard;
+package com.marineguard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
